@@ -1,23 +1,23 @@
-# Voice and tone: [Your product name]
+# Voice and tone: Thumbtack
 
 > **Guide:** This file defines how your product speaks. It is read by people and by AI tools, so write rules, not aspirations. "Use second person" is a rule. "Be friendly" is not. Replace every `[bracketed]` placeholder. Delete these guide blocks when you no longer need them. Tools strip them out before sending this file to an AI.
 > See the finished version for Luma in ContentLab > Examples.
 
-[Your product name] is [one sentence: what it does and who it is for].
+Thumbtack is an online marketplace that connects customers with local, skilled pros for any home care project.
 
 ---
 
 ## The voice
 
-The voice is who [Your product name] is, in every context. It stays consistent.
+The voice is who Thumbtack is, in every context. It stays consistent.
 
 > **Guide:** Write 3 to 5 attributes. Use the pattern **Quality, not its extreme.** Then one or two sentences saying what that means in practice and what to avoid. Make each attribute testable: could someone check a string against it?
 
-**[Attribute 1], not [its extreme].** [What this means in practice. What to do. What to avoid.]
+**Relatable, not impersonal.** Be approachable, generous, and empathetic. Acknowledge where the person is and give them a next step. Write "We couldn't find a match yet — here's what you can try next," not "No results found."
 
-**[Attribute 2], not [its extreme].** [What this means in practice.]
+**Grounded, not lofty.** Be reasonable, realistic, and pragmatic. Set honest expectations with words like "most" or "usually," and don't promise outcomes or call any pro the best. Write "Most customers hear back from a pro within a few hours," not "Get instant responses from top-rated pros, guaranteed!"
 
-**[Attribute 3], not [its extreme].** [What this means in practice.]
+**Natural, not crafted.** Be unaffected, conversational, and subtly playful. Write the way a person would say it, without wordplay or stacked exclamation points. Write "Nice — you're all set. We'll let you know when a pro responds," not "Congratulations! Your request has been successfully submitted!!"
 
 ### What the voice is not
 
@@ -81,7 +81,7 @@ The voice stays the same. The tone shifts with what the user is doing and how th
 
 > **Guide:** Every anti-pattern here can become an eval in Week 4, so make each one specific enough to check. Use the format: **Pattern**: bad example, then good example.
 
-Avoid these in all copy for [Your product name]:
+Avoid these in all copy for Thumbtack:
 
 - **[Anti-pattern 1]**: "[bad example]" becomes "[good example]"
 - **[Anti-pattern 2]**: "[bad example]" becomes "[good example]"
